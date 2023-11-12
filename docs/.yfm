@@ -1,5 +1,8 @@
+disableLiquid: true
+allowHTML: true
 langs: ['en']
 
 resources:
   style:
     - _assets/style/custom.css
+
