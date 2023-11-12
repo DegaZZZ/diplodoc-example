@@ -1,4 +1,4 @@
-# # SustainaLLM: Revolutionizing Business Analytics with Sustainable Generative AI
+# SustainaLLM: Revolutionizing Business Analytics with Sustainable Generative AI
 
 ## 🚀 Introducing a New Era in AI-Assisted Business Analytics 🚀
 
